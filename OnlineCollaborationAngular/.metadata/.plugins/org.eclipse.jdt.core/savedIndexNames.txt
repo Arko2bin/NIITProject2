@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+F:\All_Workspace\Angular_Workspace\OnlineCollaborationAngular\.metadata\.plugins\org.eclipse.jdt.core
